@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ramzan Khan
+Build-Jdk: 21.0.7
+Implementation-Title: Spring Spark Word Count
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.technocratsid.spring.spark
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-spark-word-count
+Created-By: Maven Integration for Eclipse
+
